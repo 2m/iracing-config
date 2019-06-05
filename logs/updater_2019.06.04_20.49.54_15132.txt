@@ -1,0 +1,22 @@
+
+
+============================================================
+C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\iRacingUpdater.tmp.exe
+2019-06-04 20:49:54
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+updateMyself: mypath <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater>
+Copied <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\iRacingUpdater.tmp.exe> to <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\iRacingUpdater.exe>
+Copied <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\iRacingUpdater.tmp.sgn> to <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\iRacingUpdater.sgn>
+Copied <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\version.txt.tmp> to <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\version.txt>
+Successfully replaced old updater with new one.
+updateMyself: Launching new updater <C:\Program Files (x86)\Steam\steamapps\common\iRacing\updater\iRacingUpdater.exe> to continue installation
+updateMyself: Successfully launched new updater via CreateProcess
+===================
+2019-06-04 20:49:54
+============================================================
+
