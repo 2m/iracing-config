@@ -14,9 +14,9 @@ CalibrationInfo:
    AxisList:
    - Axis: 0
      AxisName: 'X Axis'
-     CalibMin: 0
-     CalibCenter: 21
-     CalibMax: 1872
+     CalibMin: 23
+     CalibCenter: 102
+     CalibMax: 1860
  - DeviceName: 'HE SIM PEDALS'
    InstanceGUID: '{AA371590-E4F4-11E8-8007-444553540000}'
    AxisList:
@@ -27,12 +27,12 @@ CalibrationInfo:
      CalibMax: 1896
    - Axis: 5
      AxisName: 'Y Axis'
-     CalibMin: 2
-     CalibCenter: 33
-     CalibMax: 4095
+     CalibMin: 42
+     CalibCenter: 60
+     CalibMax: 3545
    - Axis: 6
      AxisName: 'X Axis'
-     CalibMin: 204
-     CalibCenter: 208
-     CalibMax: 1429
+     CalibMin: 208
+     CalibCenter: 210
+     CalibMax: 1432
 ...
