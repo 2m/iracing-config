@@ -15,8 +15,8 @@ CalibrationInfo:
    - Axis: 0
      AxisName: 'X Axis'
      CalibMin: 0
-     CalibCenter: 21
-     CalibMax: 1872
+     CalibCenter: 34
+     CalibMax: 1853
  - DeviceName: 'HE SIM PEDALS'
    InstanceGUID: '{AA371590-E4F4-11E8-8007-444553540000}'
    AxisList:
