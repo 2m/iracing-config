@@ -1,2 +1,5 @@
 *.rpy
 .tmp.*/
+helmet_*.tga
+car_*.tga
+suit_*.tga
