@@ -27,7 +27,7 @@ CalibrationInfo:
      CalibMax: 1896
    - Axis: 5
      AxisName: 'Y Axis'
-     CalibMin: 47
+     CalibMin: 57
      CalibCenter: 63
      CalibMax: 3278
    - Axis: 6
