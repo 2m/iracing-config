@@ -6,9 +6,9 @@ CalibrationInfo:
    AxisList:
    - Axis: 0
      AxisName: 'X Axis'
-     CalibMin: 0
-     CalibCenter: 32771
-     CalibMax: 65535
+     CalibMin: 637
+     CalibCenter: 32775
+     CalibMax: 64774
  - DeviceName: 'HE SIM HANDBRAKE'
    InstanceGUID: '{AA362B30-E4F4-11E8-8006-444553540000}'
    AxisList:
