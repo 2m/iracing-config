@@ -1,0 +1,38 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'SimuCUBE'
+   InstanceGUID: '{AA3567E0-E4F4-11E8-8005-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32771
+     CalibMax: 65535
+ - DeviceName: 'HE SIM HANDBRAKE'
+   InstanceGUID: '{AA362B30-E4F4-11E8-8006-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 34
+     CalibMax: 1853
+ - DeviceName: 'HE SIM PEDALS'
+   InstanceGUID: '{AA371590-E4F4-11E8-8007-444553540000}'
+   AxisList:
+   - Axis: 4
+     AxisName: 'Z Axis'
+     CalibMin: 494
+     CalibCenter: 497
+     CalibMax: 1854
+   - Axis: 5
+     AxisName: 'Y Axis'
+     CalibMin: 112
+     CalibCenter: 131
+     CalibMax: 3290
+   - Axis: 6
+     AxisName: 'X Axis'
+     CalibMin: 203
+     CalibCenter: 205
+     CalibMax: 1422
+...
