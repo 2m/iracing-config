@@ -1,0 +1,607 @@
+{
+	"aiCarClassId": 4013,
+	"avoidUser": false,
+	"carId": 161,
+	"carSettings": [
+		{
+			"car_id": 161,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"category_id": 6,
+	"damage_model": 0,
+	"do_not_count_caution_laps": false,
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"lucky_dog": false,
+	"max_drivers": 20,
+	"maxSkill": 40,
+	"minSkill": 10,
+	"max_visor_tearoffs": -1,
+	"must_use_diff_tire_types_in_race": false,
+	"no_lapper_wave_arounds": true,
+	"num_fast_tows": 1,
+	"practice_length": 15,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 10,
+	"race_length_type": 3,
+	"race_length": 30,
+	"restarts": 2,
+	"rolling_starts": false,
+	"short_parade_lap": false,
+	"start_on_qual_tire": false,
+	"startZone": 0,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"time_of_day": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1,
+		"warmup_rubber": -1
+	},
+	"unsport_conduct_rule_mode": 0,
+	"weather": {
+		"type": 3,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 45,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2024-05-15T12:00:00",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			90,
+			180
+		],
+		"version": 2,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0,
+		"time_of_day": 4,
+		"track_water": 0
+	},
+	"events": [
+		{
+			"trackId": 250,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "a3120aee-e900-8784-b343-0ce872e23018",
+			"race_laps": 15
+		},
+		{
+			"trackId": 465,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "a12af3eb-191f-0a14-9921-6cf4e0a130af",
+			"race_laps": 14
+		},
+		{
+			"trackId": 152,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "c03bf6a7-2fc6-f103-0663-d8c15d416cc7",
+			"race_laps": 17
+		},
+		{
+			"trackId": 168,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "a2be622f-1e0b-e529-d606-866dcf004800",
+			"race_laps": 13
+		},
+		{
+			"trackId": 498,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "773cdb63-38f6-b8fb-e86f-cca93b5ad326",
+			"race_laps": 15
+		},
+		{
+			"trackId": 95,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "62b45b0c-ef65-c558-c19c-2eeb742fe5c9",
+			"race_laps": 12
+		},
+		{
+			"trackId": 266,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "42e5a648-651e-0d96-417e-e8ff97f36766",
+			"race_laps": 16
+		},
+		{
+			"trackId": 179,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "0c3e321d-59f1-231c-ea6a-cf3bfd8224fc",
+			"race_laps": 21
+		},
+		{
+			"trackId": 218,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "9bdf83e0-e84b-626a-9646-519bd703b7c2",
+			"race_laps": 18
+		},
+		{
+			"trackId": 349,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "26d286d5-72aa-19d2-2356-2d03a7509b4b",
+			"race_laps": 16
+		},
+		{
+			"trackId": 403,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "19000657-2184-94f0-2a53-94a8c27a9338",
+			"race_laps": 17
+		},
+		{
+			"trackId": 341,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "9bcf48e9-c5e2-86bb-88b1-cc1eaafa962c",
+			"race_laps": 13
+		},
+		{
+			"trackId": 413,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "0ecd9e7d-c58a-a56f-3050-dca067665441",
+			"race_laps": 18
+		},
+		{
+			"trackId": 163,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "e5823c29-c4d8-0fdc-9f89-782984a23b84",
+			"race_laps": 11
+		},
+		{
+			"trackId": 485,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "69c5e057-e682-fffb-ea99-22ea18b30e6b",
+			"race_laps": 18
+		},
+		{
+			"trackId": 239,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "3a5270cd-ace9-3f03-f90e-db156fbaec7d",
+			"race_laps": 13
+		},
+		{
+			"trackId": 475,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "7d875e83-2326-2145-6510-6f00529ba494",
+			"race_laps": 15
+		},
+		{
+			"trackId": 444,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "7fc1c3cb-2ead-e362-7803-bfabf569e67a",
+			"race_laps": 17
+		},
+		{
+			"trackId": 229,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "5025e6e6-7937-2c5c-b581-51c349db647c",
+			"race_laps": 14
+		},
+		{
+			"trackId": 473,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "68affd6a-8d3a-9799-323f-9d63d8e8cca8",
+			"race_laps": 18
+		},
+		{
+			"trackId": 212,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "65f030ba-f820-5764-60d7-e6a6e3592c42",
+			"race_laps": 18
+		},
+		{
+			"trackId": 509,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "56bf4e20-8482-348b-cad7-888d6cecd92a",
+			"race_laps": 17
+		},
+		{
+			"trackId": 463,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "07130763-1e7e-9950-bba4-6a4ceeb438d7",
+			"race_laps": 18
+		},
+		{
+			"trackId": 390,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "7650b644-2f54-23af-1d39-6214e970c089",
+			"race_laps": 17
+		}
+	],
+	"points_system_id": 4,
+	"name": "Formula A - Grand Prix Series",
+	"cover": "dbc32e5acc1e5419bb64adb370a356d3.jpg",
+	"etag": "\"0368c52dae33022fa4e44cd6d1c30ff9\"",
+	"official": true
+}

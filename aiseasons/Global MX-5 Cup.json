@@ -1,0 +1,202 @@
+{
+	"aiCarClassId": 74,
+	"carId": 67,
+	"carSettings": [
+		{
+			"car_id": 67,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"damage_model": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1,
+		"warmup_rubber": -1
+	},
+	"time_of_day": 0,
+	"weather": {
+		"type": 1,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 55,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2023-05-15T15:06:21",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			0,
+			0
+		],
+		"version": 0,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0
+	},
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"lucky_dog": false,
+	"max_drivers": 12,
+	"num_fast_tows": 1,
+	"avoidUser": false,
+	"minSkill": 0,
+	"maxSkill": 10,
+	"must_use_diff_tire_types_in_race": false,
+	"start_on_qual_tire": false,
+	"unsport_conduct_rule_mode": 0,
+	"practice_length": 10,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 10,
+	"race_length": 15,
+	"race_length_type": 3,
+	"restarts": 2,
+	"rolling_starts": true,
+	"short_parade_lap": false,
+	"no_lapper_wave_arounds": false,
+	"do_not_count_caution_laps": false,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"startZone": 0,
+	"events": [
+		{
+			"trackId": 166,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "0153c757-65e8-69ba-9497-56f9c56645e7",
+			"race_laps": 12
+		},
+		{
+			"trackId": 9,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "9d38ee75-b53d-6014-0315-2a6fa1b46658"
+		},
+		{
+			"trackId": 353,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "5c2cb988-3e09-a553-ac13-07b8a0e0ac9c",
+			"weather": {
+				"type": 1,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 55,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2023-05-15T14:35:37",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					0,
+					0
+				],
+				"version": 0,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0
+			},
+			"race_laps": 20
+		},
+		{
+			"trackId": 350,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "d6b83896-588f-dc1c-c93e-687da3bbf10b"
+		},
+		{
+			"trackId": 47,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "9f4f7fed-483d-98bb-88f1-091609ea32c9"
+		}
+	],
+	"points_system_id": 4,
+	"name": "Global MX-5 Cup",
+	"cover": "aff1ce55d683995b714a5fe76edef9f5.jpg",
+	"etag": "\"5978f7d6a3e10696e72fa92f5e17ceb1\"",
+	"official": true
+}

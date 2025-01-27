@@ -1,0 +1,191 @@
+{
+	"aiCarClassId": 4073,
+	"avoidUser": false,
+	"carId": 195,
+	"carSettings": [
+		{
+			"car_id": 195,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"category_id": 5,
+	"damage_model": 0,
+	"do_not_count_caution_laps": false,
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"incident_limit": 0,
+	"incident_warn_mode": 0,
+	"incident_warn_param1": 0,
+	"incident_warn_param2": 0,
+	"lucky_dog": false,
+	"max_drivers": 25,
+	"maxSkill": 15,
+	"minSkill": 0,
+	"max_visor_tearoffs": -1,
+	"must_use_diff_tire_types_in_race": false,
+	"no_lapper_wave_arounds": false,
+	"num_fast_tows": 1,
+	"practice_length": 10,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 10,
+	"race_length_type": 3,
+	"race_length": 15,
+	"restarts": 2,
+	"rolling_starts": false,
+	"short_parade_lap": false,
+	"start_on_qual_tire": false,
+	"startZone": 0,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"time_of_day": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1,
+		"warmup_rubber": -1
+	},
+	"unsport_conduct_rule_mode": 0,
+	"weather": {
+		"type": 3,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 45,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2024-05-15T15:06:59",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			20,
+			40
+		],
+		"version": 2,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0,
+		"time_of_day": 0,
+		"track_water": 0
+	},
+	"events": [
+		{
+			"trackId": 166,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 90,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 5
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "2be0d7e4-907b-f334-83b3-47942d42e418",
+			"race_laps": 12
+		},
+		{
+			"trackId": 9,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 90,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 5
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "e0955d67-b0ef-c835-6079-ba8db8e9716a"
+		},
+		{
+			"trackId": 353,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 90,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 5
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "61869355-7c56-4e01-dadd-8d1432e5b1a6",
+			"race_laps": 20
+		},
+		{
+			"trackId": 350,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 90,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 5
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "8753877c-2c6b-1285-ed55-8188601b7edc"
+		},
+		{
+			"trackId": 47,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 90,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 5
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "95de2152-ba86-d816-4559-f8b373bf9b7d"
+		}
+	],
+	"points_system_id": 3,
+	"name": "BMW M2 CSR Season",
+	"cover": "16fc19e11d2874b97d844df5de22fd46.jpg",
+	"etag": "\"a7912830372df5828266f63e6721ddc9\"",
+	"official": true
+}

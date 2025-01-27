@@ -1,0 +1,540 @@
+{
+	"aiCarClassId": 4049,
+	"avoidUser": false,
+	"carId": 178,
+	"carSettings": [
+		{
+			"car_id": 178,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"category_id": 6,
+	"damage_model": 0,
+	"do_not_count_caution_laps": false,
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"lucky_dog": false,
+	"max_drivers": 20,
+	"maxSkill": 40,
+	"minSkill": 10,
+	"max_visor_tearoffs": -1,
+	"must_use_diff_tire_types_in_race": false,
+	"no_lapper_wave_arounds": false,
+	"num_fast_tows": 1,
+	"practice_length": 15,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 10,
+	"race_length_type": 3,
+	"race_length": 15,
+	"restarts": 2,
+	"rolling_starts": false,
+	"short_parade_lap": false,
+	"start_on_qual_tire": false,
+	"startZone": 0,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"time_of_day": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1,
+		"warmup_rubber": -1
+	},
+	"unsport_conduct_rule_mode": 0,
+	"weather": {
+		"type": 3,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 45,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2024-05-15T13:56:56",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			25,
+			45
+		],
+		"version": 2,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0,
+		"time_of_day": 0,
+		"track_water": 0
+	},
+	"events": [
+		{
+			"trackId": 195,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "fd59c66f-54f6-bfe7-dbfe-fd81e9fd86fa",
+			"race_laps": 11
+		},
+		{
+			"trackId": 195,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "d265f3c4-fb8e-29ea-5768-e0b02512bb12",
+			"race_laps": 7
+		},
+		{
+			"trackId": 152,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "793ac005-f0af-046d-185b-de257d75b62d",
+			"race_laps": 13
+		},
+		{
+			"trackId": 152,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "a9f63ff0-dd89-af67-ae0b-53fae428435c"
+		},
+		{
+			"trackId": 444,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "bf36cfc3-ca56-6fb6-20fa-e5e6d54306ca",
+			"race_laps": 11
+		},
+		{
+			"trackId": 444,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "d9e34d6d-2a10-0c4e-687b-8d306ff0fd33",
+			"race_laps": 8
+		},
+		{
+			"trackId": 166,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "e3d68818-b04d-a3bd-6618-6a5a5bc679c8",
+			"race_laps": 13
+		},
+		{
+			"trackId": 166,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "ed92db64-b5aa-8593-42cf-3e773415d57a",
+			"race_laps": 9
+		},
+		{
+			"trackId": 168,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "f4b47a43-bd15-8912-ddcf-fa96f5155831",
+			"race_laps": 9
+		},
+		{
+			"trackId": 168,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "15626c83-6466-28d2-0e4a-d4f71340be69",
+			"race_laps": 6
+		}
+	],
+	"points_system_id": 2,
+	"name": "Super Formula Lights AI 2024",
+	"custom_points": [
+		{
+			"position": 1,
+			"points": 10
+		},
+		{
+			"position": 2,
+			"points": 7
+		},
+		{
+			"position": 3,
+			"points": 5
+		},
+		{
+			"position": 4,
+			"points": 3
+		},
+		{
+			"position": 5,
+			"points": 2
+		},
+		{
+			"position": 6,
+			"points": 1
+		},
+		{
+			"position": 7,
+			"points": 0
+		},
+		{
+			"position": 8,
+			"points": 0
+		},
+		{
+			"position": 9,
+			"points": 0
+		},
+		{
+			"position": 10,
+			"points": 0
+		},
+		{
+			"position": 11,
+			"points": 0
+		},
+		{
+			"position": 12,
+			"points": 0
+		},
+		{
+			"position": 13,
+			"points": 0
+		},
+		{
+			"position": 14,
+			"points": 0
+		},
+		{
+			"position": 15,
+			"points": 0
+		},
+		{
+			"position": 16,
+			"points": 0
+		},
+		{
+			"position": 17,
+			"points": 0
+		},
+		{
+			"position": 18,
+			"points": 0
+		},
+		{
+			"position": 19,
+			"points": 0
+		},
+		{
+			"position": 20,
+			"points": 0
+		},
+		{
+			"position": 21,
+			"points": 0
+		},
+		{
+			"position": 22,
+			"points": 0
+		},
+		{
+			"position": 23,
+			"points": 0
+		},
+		{
+			"position": 24,
+			"points": 0
+		},
+		{
+			"position": 25,
+			"points": 0
+		},
+		{
+			"position": 26,
+			"points": 0
+		},
+		{
+			"position": 27,
+			"points": 0
+		},
+		{
+			"position": 28,
+			"points": 0
+		},
+		{
+			"position": 29,
+			"points": 0
+		},
+		{
+			"position": 30,
+			"points": 0
+		},
+		{
+			"position": 31,
+			"points": 0
+		},
+		{
+			"position": 32,
+			"points": 0
+		},
+		{
+			"position": 33,
+			"points": 0
+		},
+		{
+			"position": 34,
+			"points": 0
+		},
+		{
+			"position": 35,
+			"points": 0
+		},
+		{
+			"position": 36,
+			"points": 0
+		},
+		{
+			"position": 37,
+			"points": 0
+		},
+		{
+			"position": 38,
+			"points": 0
+		},
+		{
+			"position": 39,
+			"points": 0
+		},
+		{
+			"position": 40,
+			"points": 0
+		},
+		{
+			"position": 41,
+			"points": 0
+		},
+		{
+			"position": 42,
+			"points": 0
+		},
+		{
+			"position": 43,
+			"points": 0
+		},
+		{
+			"position": 44,
+			"points": 0
+		},
+		{
+			"position": 45,
+			"points": 0
+		},
+		{
+			"position": 46,
+			"points": 0
+		},
+		{
+			"position": 47,
+			"points": 0
+		},
+		{
+			"position": 48,
+			"points": 0
+		},
+		{
+			"position": 49,
+			"points": 0
+		},
+		{
+			"position": 50,
+			"points": 0
+		},
+		{
+			"position": 51,
+			"points": 0
+		},
+		{
+			"position": 52,
+			"points": 0
+		},
+		{
+			"position": 53,
+			"points": 0
+		},
+		{
+			"position": 54,
+			"points": 0
+		},
+		{
+			"position": 55,
+			"points": 0
+		},
+		{
+			"position": 56,
+			"points": 0
+		},
+		{
+			"position": 57,
+			"points": 0
+		},
+		{
+			"position": 58,
+			"points": 0
+		},
+		{
+			"position": 59,
+			"points": 0
+		},
+		{
+			"position": 60,
+			"points": 0
+		}
+	],
+	"cover": "956d6bcdd743c3152dac16241012bdfc.jpg",
+	"etag": "\"e38415419cb8912f5024c9a70ade432b\"",
+	"official": true
+}

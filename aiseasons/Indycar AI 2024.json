@@ -1,0 +1,732 @@
+{
+	"aiCarClassId": 117,
+	"avoidUser": false,
+	"carId": 99,
+	"carSettings": [
+		{
+			"car_id": 99,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"category_id": 6,
+	"damage_model": 0,
+	"do_not_count_caution_laps": false,
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"lucky_dog": false,
+	"max_drivers": 27,
+	"maxSkill": 40,
+	"minSkill": 10,
+	"max_visor_tearoffs": -1,
+	"must_use_diff_tire_types_in_race": false,
+	"no_lapper_wave_arounds": false,
+	"num_fast_tows": 1,
+	"practice_length": 15,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 80,
+	"race_length_type": 3,
+	"race_length": 15,
+	"restarts": 2,
+	"rolling_starts": true,
+	"short_parade_lap": false,
+	"start_on_qual_tire": false,
+	"startZone": 0,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"time_of_day": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1,
+		"warmup_rubber": -1
+	},
+	"unsport_conduct_rule_mode": 0,
+	"weather": {
+		"type": 3,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 45,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2024-05-15T14:46:44",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			25,
+			45
+		],
+		"version": 2,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0,
+		"time_of_day": 0,
+		"track_water": 0
+	},
+	"events": [
+		{
+			"trackId": 483,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "a8a66632-3417-07ee-dcd6-c2ccb65fd288",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T14:33:48",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 0,
+				"track_water": 0
+			},
+			"race_laps": 15
+		},
+		{
+			"trackId": 179,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "0075dd8d-f669-5d38-d805-eb404b3aa1db",
+			"race_laps": 13
+		},
+		{
+			"trackId": 46,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "b5f73c84-506f-19a8-7fbf-74f1e77edce9",
+			"race_laps": 14,
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T14:52:22",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 0,
+				"track_water": 0
+			}
+		},
+		{
+			"trackId": 448,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "e16ac5a9-abe1-f7e2-fc2f-c95cd39b67b8",
+			"race_laps": 13
+		},
+		{
+			"trackId": 453,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 90,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "d805fb50-8042-23b8-bc3a-60b641cec1b7",
+			"race_laps": 30,
+			"full_course_cautions": true,
+			"do_not_count_caution_laps": false
+		},
+		{
+			"trackId": 319,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "7f7d7d5a-15c1-dafe-479b-6314d2208798",
+			"race_laps": 12
+		},
+		{
+			"trackId": 18,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "9e6ee728-595e-fb6a-3163-afa26f80b1bd",
+			"race_laps": 8
+		},
+		{
+			"trackId": 47,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "3125f965-4cf1-6d3d-8bb6-8c30efac246f",
+			"race_laps": 14,
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T15:06:59",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 0,
+				"track_water": 0
+			}
+		},
+		{
+			"trackId": 153,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "161de897-fbbf-de55-bd0b-a0f381550219",
+			"race_laps": 12
+		},
+		{
+			"trackId": 169,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 90,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "7cb5f896-9139-d353-9879-5d3a90b22289",
+			"full_course_cautions": true,
+			"do_not_count_caution_laps": false,
+			"race_laps": 38
+		},
+		{
+			"trackId": 218,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "4d4a8f4d-274f-6cdd-436a-51458e29fed3",
+			"race_laps": 13
+		},
+		{
+			"trackId": 237,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 90,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "feb51480-a582-2ee2-3506-425d8d4dec74",
+			"race_laps": 3965,
+			"full_course_cautions": true,
+			"do_not_count_caution_laps": false
+		},
+		{
+			"trackId": 397,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": true,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "b81084cd-4cea-2854-663d-3bd9fad34e7c",
+			"race_laps": 9
+		},
+		{
+			"trackId": 94,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 90,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "18af1f14-686a-968b-9814-f80ae7b124a6",
+			"race_laps": 38,
+			"full_course_cautions": true,
+			"do_not_count_caution_laps": false
+		},
+		{
+			"trackId": 400,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 90,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Truck",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "a2612d93-91fd-1748-d203-1073c1f0b094",
+			"race_laps": 26,
+			"full_course_cautions": true,
+			"do_not_count_caution_laps": false
+		}
+	],
+	"points_system_id": 2,
+	"name": "Indycar AI 2024",
+	"custom_points": [
+		{
+			"position": 1,
+			"points": 50
+		},
+		{
+			"position": 2,
+			"points": 40
+		},
+		{
+			"position": 3,
+			"points": 35
+		},
+		{
+			"position": 4,
+			"points": 32
+		},
+		{
+			"position": 5,
+			"points": 30
+		},
+		{
+			"position": 6,
+			"points": 28
+		},
+		{
+			"position": 7,
+			"points": 26
+		},
+		{
+			"position": 8,
+			"points": 24
+		},
+		{
+			"position": 9,
+			"points": 22
+		},
+		{
+			"position": 10,
+			"points": 20
+		},
+		{
+			"position": 11,
+			"points": 19
+		},
+		{
+			"position": 12,
+			"points": 18
+		},
+		{
+			"position": 13,
+			"points": 17
+		},
+		{
+			"position": 14,
+			"points": 16
+		},
+		{
+			"position": 15,
+			"points": 15
+		},
+		{
+			"position": 16,
+			"points": 14
+		},
+		{
+			"position": 17,
+			"points": 13
+		},
+		{
+			"position": 18,
+			"points": 12
+		},
+		{
+			"position": 19,
+			"points": 11
+		},
+		{
+			"position": 20,
+			"points": 10
+		},
+		{
+			"position": 21,
+			"points": 9
+		},
+		{
+			"position": 22,
+			"points": 8
+		},
+		{
+			"position": 23,
+			"points": 7
+		},
+		{
+			"position": 24,
+			"points": 6
+		},
+		{
+			"position": 25,
+			"points": 5
+		},
+		{
+			"position": 26,
+			"points": 5
+		},
+		{
+			"position": 27,
+			"points": 5
+		},
+		{
+			"position": 28,
+			"points": 5
+		},
+		{
+			"position": 29,
+			"points": 5
+		},
+		{
+			"position": 30,
+			"points": 5
+		},
+		{
+			"position": 31,
+			"points": 5
+		},
+		{
+			"position": 32,
+			"points": 5
+		},
+		{
+			"position": 33,
+			"points": 5
+		},
+		{
+			"position": 34,
+			"points": 0
+		},
+		{
+			"position": 35,
+			"points": 0
+		},
+		{
+			"position": 36,
+			"points": 0
+		},
+		{
+			"position": 37,
+			"points": 0
+		},
+		{
+			"position": 38,
+			"points": 0
+		},
+		{
+			"position": 39,
+			"points": 0
+		},
+		{
+			"position": 40,
+			"points": 0
+		},
+		{
+			"position": 41,
+			"points": 0
+		},
+		{
+			"position": 42,
+			"points": 0
+		},
+		{
+			"position": 43,
+			"points": 0
+		},
+		{
+			"position": 44,
+			"points": 0
+		},
+		{
+			"position": 45,
+			"points": 0
+		},
+		{
+			"position": 46,
+			"points": 0
+		},
+		{
+			"position": 47,
+			"points": 0
+		},
+		{
+			"position": 48,
+			"points": 0
+		},
+		{
+			"position": 49,
+			"points": 0
+		},
+		{
+			"position": 50,
+			"points": 0
+		},
+		{
+			"position": 51,
+			"points": 0
+		},
+		{
+			"position": 52,
+			"points": 0
+		},
+		{
+			"position": 53,
+			"points": 0
+		},
+		{
+			"position": 54,
+			"points": 0
+		},
+		{
+			"position": 55,
+			"points": 0
+		},
+		{
+			"position": 56,
+			"points": 0
+		},
+		{
+			"position": 57,
+			"points": 0
+		},
+		{
+			"position": 58,
+			"points": 0
+		},
+		{
+			"position": 59,
+			"points": 0
+		},
+		{
+			"position": 60,
+			"points": 0
+		}
+	],
+	"cover": "5c353f362497ef4a51ff0f55c91ff1e0.jpg",
+	"etag": "\"0a8f3cb7707109d5c59f9f5ed98db93f\"",
+	"official": true
+}

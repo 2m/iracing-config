@@ -1,0 +1,595 @@
+{
+	"aiCarClassId": 12,
+	"carId": 11,
+	"carSettings": [
+		{
+			"car_id": 11,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"damage_model": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1,
+		"warmup_rubber": -1
+	},
+	"time_of_day": 0,
+	"weather": {
+		"type": 1,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 55,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2023-05-15T15:03:33",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			0,
+			0
+		],
+		"version": 0,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0
+	},
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"lucky_dog": false,
+	"max_drivers": 14,
+	"num_fast_tows": 1,
+	"avoidUser": false,
+	"minSkill": 0,
+	"maxSkill": 10,
+	"must_use_diff_tire_types_in_race": false,
+	"start_on_qual_tire": false,
+	"unsport_conduct_rule_mode": 0,
+	"practice_length": 10,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 40,
+	"race_length": 15,
+	"race_length_type": 3,
+	"restarts": 2,
+	"rolling_starts": true,
+	"short_parade_lap": false,
+	"no_lapper_wave_arounds": false,
+	"do_not_count_caution_laps": false,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"startZone": 0,
+	"events": [
+		{
+			"trackId": 17,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "2a37ce77-a246-54b8-cc80-7e42b973c7c6",
+			"weather": {
+				"type": 1,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 55,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2023-05-15T21:32:09",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					0,
+					0,
+					0,
+					0
+				],
+				"version": 0,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 3
+			},
+			"time_of_day": 3,
+			"results": {
+				"session_results": [],
+				"trackId": 17,
+				"weather": {
+					"type": 1,
+					"temp_units": 0,
+					"temp_value": 78,
+					"rel_humidity": 55,
+					"fog": 0,
+					"wind_dir": 0,
+					"wind_units": 0,
+					"wind_value": 2,
+					"skies": 1,
+					"simulated_start_time": "2023-05-15T21:32:09",
+					"simulated_time_multiplier": 1,
+					"simulated_time_offsets": [
+						0,
+						0,
+						0,
+						0
+					],
+					"version": 0,
+					"weather_var_initial": 0,
+					"weather_var_ongoing": 0,
+					"time_of_day": 3
+				},
+				"maxSkill": 10,
+				"minSkill": 0,
+				"season": "Rookie Legends Cup",
+				"car_classes": [
+					{
+						"car_class_id": 0,
+						"cars_in_class": [
+							{
+								"car_id": 11
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"trackId": 14,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "3919f1d7-bbe0-5b8a-64cb-c2ada5ee124f",
+			"weather": {
+				"type": 1,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 55,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2023-05-15T15:14:25",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					0,
+					0
+				],
+				"version": 0,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0
+			}
+		},
+		{
+			"trackId": 15,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "6f30e1eb-17f4-e511-bd91-f119944db906",
+			"race_laps": 30,
+			"weather": {
+				"type": 1,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 55,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2023-05-15T08:06:16",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					0,
+					0,
+					0,
+					0
+				],
+				"version": 0,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 1
+			},
+			"time_of_day": 1
+		},
+		{
+			"trackId": 335,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "06ac0626-eb0e-0994-5329-c634e6b0ac69",
+			"weather": {
+				"type": 1,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 55,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2023-05-15T21:23:29",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					0,
+					0,
+					0,
+					0
+				],
+				"version": 0,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 3
+			},
+			"time_of_day": 3
+		},
+		{
+			"trackId": 201,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "b1ccd61b-90d9-8f28-c400-bb4ca1e79d2a",
+			"weather": {
+				"type": 1,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 55,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2023-05-15T20:07:36",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					0,
+					0,
+					0,
+					0
+				],
+				"version": 0,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 8
+			},
+			"time_of_day": 8
+		}
+	],
+	"points_system_id": 2,
+	"name": "Rookie Legends Cup",
+	"custom_points": [
+		{
+			"position": 1,
+			"points": 15
+		},
+		{
+			"position": 2,
+			"points": 13
+		},
+		{
+			"position": 3,
+			"points": 12
+		},
+		{
+			"position": 4,
+			"points": 11
+		},
+		{
+			"position": 5,
+			"points": 10
+		},
+		{
+			"position": 6,
+			"points": 9
+		},
+		{
+			"position": 7,
+			"points": 8
+		},
+		{
+			"position": 8,
+			"points": 7
+		},
+		{
+			"position": 9,
+			"points": 6
+		},
+		{
+			"position": 10,
+			"points": 5
+		},
+		{
+			"position": 11,
+			"points": 4
+		},
+		{
+			"position": 12,
+			"points": 3
+		},
+		{
+			"position": 13,
+			"points": 2
+		},
+		{
+			"position": 14,
+			"points": 1
+		},
+		{
+			"position": 15,
+			"points": 0
+		},
+		{
+			"position": 16,
+			"points": 0
+		},
+		{
+			"position": 17,
+			"points": 0
+		},
+		{
+			"position": 18,
+			"points": 0
+		},
+		{
+			"position": 19,
+			"points": 0
+		},
+		{
+			"position": 20,
+			"points": 0
+		},
+		{
+			"position": 21,
+			"points": 0
+		},
+		{
+			"position": 22,
+			"points": 0
+		},
+		{
+			"position": 23,
+			"points": 0
+		},
+		{
+			"position": 24,
+			"points": 0
+		},
+		{
+			"position": 25,
+			"points": 0
+		},
+		{
+			"position": 26,
+			"points": 0
+		},
+		{
+			"position": 27,
+			"points": 0
+		},
+		{
+			"position": 28,
+			"points": 0
+		},
+		{
+			"position": 29,
+			"points": 0
+		},
+		{
+			"position": 30,
+			"points": 0
+		},
+		{
+			"position": 31,
+			"points": 0
+		},
+		{
+			"position": 32,
+			"points": 0
+		},
+		{
+			"position": 33,
+			"points": 0
+		},
+		{
+			"position": 34,
+			"points": 0
+		},
+		{
+			"position": 35,
+			"points": 0
+		},
+		{
+			"position": 36,
+			"points": 0
+		},
+		{
+			"position": 37,
+			"points": 0
+		},
+		{
+			"position": 38,
+			"points": 0
+		},
+		{
+			"position": 39,
+			"points": 0
+		},
+		{
+			"position": 40,
+			"points": 0
+		},
+		{
+			"position": 41,
+			"points": 0
+		},
+		{
+			"position": 42,
+			"points": 0
+		},
+		{
+			"position": 43,
+			"points": 0
+		},
+		{
+			"position": 44,
+			"points": 0
+		},
+		{
+			"position": 45,
+			"points": 0
+		},
+		{
+			"position": 46,
+			"points": 0
+		},
+		{
+			"position": 47,
+			"points": 0
+		},
+		{
+			"position": 48,
+			"points": 0
+		},
+		{
+			"position": 49,
+			"points": 0
+		},
+		{
+			"position": 50,
+			"points": 0
+		},
+		{
+			"position": 51,
+			"points": 0
+		},
+		{
+			"position": 52,
+			"points": 0
+		},
+		{
+			"position": 53,
+			"points": 0
+		},
+		{
+			"position": 54,
+			"points": 0
+		},
+		{
+			"position": 55,
+			"points": 0
+		},
+		{
+			"position": 56,
+			"points": 0
+		},
+		{
+			"position": 57,
+			"points": 0
+		},
+		{
+			"position": 58,
+			"points": 0
+		},
+		{
+			"position": 59,
+			"points": 0
+		},
+		{
+			"position": 60,
+			"points": 0
+		}
+	],
+	"ai_season_id": 1519876839,
+	"search_filters": [
+		"rookielegendscup",
+		"rookielegends",
+		"user",
+		"legendsford34couperookie"
+	],
+	"event_count": 5,
+	"car_name": "Legends Ford '34 Coupe - Rookie",
+	"next_track_name": "Lanier National Speedway - Asphalt",
+	"starred": false,
+	"cover": "940d431a858378e7839735d65429bfc8.jpg",
+	"etag": "\"7300aaba684fba8058e5af6b979f6da2\"",
+	"official": true
+}

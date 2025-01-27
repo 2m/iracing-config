@@ -1,0 +1,617 @@
+{
+	"aiCarClassId": 4069,
+	"avoidUser": false,
+	"carId": 191,
+	"carSettings": [
+		{
+			"car_id": 191,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"category_id": 1,
+	"damage_model": 0,
+	"do_not_count_caution_laps": false,
+	"full_course_cautions": true,
+	"gridPosition": 1,
+	"lucky_dog": true,
+	"max_drivers": 20,
+	"maxSkill": 50,
+	"minSkill": 25,
+	"max_visor_tearoffs": -1,
+	"must_use_diff_tire_types_in_race": false,
+	"no_lapper_wave_arounds": false,
+	"num_fast_tows": -1,
+	"practice_length": 15,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 35,
+	"race_length_type": 3,
+	"race_length": 15,
+	"restarts": 2,
+	"rolling_starts": true,
+	"short_parade_lap": false,
+	"start_on_qual_tire": false,
+	"startZone": true,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"time_of_day": 0,
+	"track_state": {
+		"leave_marbles": false,
+		"practice_rubber": 50,
+		"qualify_rubber": -1,
+		"race_rubber": 80,
+		"warmup_rubber": -1
+	},
+	"unsport_conduct_rule_mode": 0,
+	"weather": {
+		"type": 3,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 45,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2024-05-15T15:14:15",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			25,
+			45
+		],
+		"version": 2,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0,
+		"time_of_day": 0,
+		"track_water": 0
+	},
+	"events": [
+		{
+			"trackId": 339,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "2d7e7dc0-efb4-1e66-5f21-0c30342706ae",
+			"race_laps": 15,
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T15:25:18",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 0,
+				"track_water": 0
+			}
+		},
+		{
+			"trackId": 201,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "8fe9ba75-e5b3-f094-14d0-2ed09af771e1",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T15:04:12",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 0,
+				"track_water": 0
+			}
+		},
+		{
+			"trackId": 16,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "db1949ff-80bc-7f93-55c6-effc1ee6f82b",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T18:56:19",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 2,
+				"track_water": 0
+			},
+			"time_of_day": 2
+		},
+		{
+			"trackId": 256,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "1528ce90-0a8c-ace9-6552-d7e837a2aa52",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T18:49:20",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 2,
+				"track_water": 0
+			},
+			"time_of_day": 2
+		},
+		{
+			"trackId": 14,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "9f3f21d8-fb64-3322-7dfc-f73f1342f1c8",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T20:17:18",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 8,
+				"track_water": 0
+			},
+			"time_of_day": 8
+		},
+		{
+			"trackId": 15,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "249bd721-0aa7-c9a2-a53d-7bcea2064f55",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T15:24:43",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 0,
+				"track_water": 0
+			}
+		},
+		{
+			"trackId": 12,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "d4c0698b-d480-9d3a-8985-c3fc6b13368f",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T07:18:49",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 1,
+				"track_water": 0
+			},
+			"time_of_day": 1
+		},
+		{
+			"trackId": 17,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "98e884e1-859f-a9dc-8679-6752f3bff89f",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T08:19:57",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 1,
+				"track_water": 0
+			},
+			"time_of_day": 1
+		},
+		{
+			"trackId": 161,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "19d052e9-293f-f27c-301c-fce7812d8fc4",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T12:00:00",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 9,
+				"track_water": 0
+			},
+			"time_of_day": 9
+		},
+		{
+			"trackId": 339,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "e30df236-b2a1-64d0-1ae4-f1f2a985e0e9",
+			"race_laps": 15,
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T12:00:00",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 9,
+				"track_water": 0
+			},
+			"time_of_day": 9
+		},
+		{
+			"trackId": 201,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "ff8830a8-5e66-46d8-78ac-790f6704f0d7"
+		},
+		{
+			"trackId": 16,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "f1bc6dff-a0ab-eead-9e85-de8ffd5dccdb",
+			"weather": {
+				"type": 3,
+				"temp_units": 0,
+				"temp_value": 78,
+				"rel_humidity": 45,
+				"fog": 0,
+				"wind_dir": 0,
+				"wind_units": 0,
+				"wind_value": 2,
+				"skies": 1,
+				"simulated_start_time": "2024-05-15T20:11:52",
+				"simulated_time_multiplier": 1,
+				"simulated_time_offsets": [
+					25,
+					45
+				],
+				"version": 2,
+				"weather_var_initial": 0,
+				"weather_var_ongoing": 0,
+				"time_of_day": 8,
+				"track_water": 0
+			},
+			"time_of_day": 8
+		},
+		{
+			"trackId": 256,
+			"num_opt_laps": 0,
+			"rolling_starts": true,
+			"paceCar": {
+				"category_id": 1,
+				"car_id": 136,
+				"is_oval": true,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "a7845c4b-e9ee-3c2e-37c3-077ffabc9915"
+		}
+	],
+	"points_system_id": 3,
+	"name": "Mini Stock Season",
+	"cover": "35873c6f9cb59773904a12151b6ab202.png",
+	"etag": "\"d34fae5d11295ec21b7c85e7dcb72ee5\"",
+	"official": true
+}

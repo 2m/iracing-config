@@ -1,0 +1,180 @@
+{
+	"aiCarClassId": 4016,
+	"carId": 163,
+	"carSettings": [
+		{
+			"car_id": 163,
+			"max_pct_fuel_fill": 100,
+			"max_dry_tire_sets": 0
+		}
+	],
+	"damage_model": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1,
+		"warmup_rubber": -1
+	},
+	"time_of_day": 0,
+	"weather": {
+		"type": 1,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 55,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2023-05-15T14:05:31",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			0,
+			0
+		],
+		"version": 0,
+		"weather_var_initial": 0,
+		"weather_var_ongoing": 0
+	},
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"lucky_dog": false,
+	"max_drivers": 12,
+	"num_fast_tows": 1,
+	"avoidUser": false,
+	"minSkill": 0,
+	"maxSkill": 10,
+	"must_use_diff_tire_types_in_race": false,
+	"start_on_qual_tire": false,
+	"unsport_conduct_rule_mode": 0,
+	"practice_length": 10,
+	"qualify_laps": 2,
+	"qualify_length": 10,
+	"race_laps": 0,
+	"race_length": 12,
+	"race_length_type": 2,
+	"restarts": 2,
+	"rolling_starts": false,
+	"short_parade_lap": false,
+	"no_lapper_wave_arounds": false,
+	"do_not_count_caution_laps": false,
+	"subsessions": [
+		3,
+		4,
+		6
+	],
+	"startZone": 0,
+	"events": [
+		{
+			"trackId": 352,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "6769c843-0e9b-1c23-4767-ef5a7e2bde19"
+		},
+		{
+			"trackId": 47,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "03a3360e-f1e4-cc0a-7182-cca89f30d0a2"
+		},
+		{
+			"trackId": 208,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "b95fb011-3b36-e29c-7a79-4fd026642be4"
+		},
+		{
+			"trackId": 324,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "eb9acc36-e8a8-1742-e949-f21d3c27f8c7"
+		},
+		{
+			"trackId": 167,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 136,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Sedan",
+				"car_class_id": 11,
+				"order": 4
+			},
+			"short_parade_lap": false,
+			"must_use_diff_tire_types_in_race": false,
+			"subsessions": [
+				3,
+				4,
+				6
+			],
+			"eventId": "b0e708d6-aefb-a20e-32eb-14a098fca089"
+		}
+	],
+	"points_system_id": 4,
+	"name": "Formula 1600 Rookie Series",
+	"cover": "aa38f3d8600576979a0742e561404c61.jpg",
+	"etag": "\"bfc95d81865256b65e0b7cddc6589079\"",
+	"official": true
+}
